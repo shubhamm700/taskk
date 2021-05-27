@@ -41,9 +41,9 @@
 <br>
 
 ## **MY INTERESTS**
-Web Development :- I really enjoy webDevlopment , and look forward in making great websites soon , I am right now seriously working on master this skill as i am loving it and soon want to make a website which is can be help for other.
-Competitive Coding :- I like the logic making ability of competitive programming and I am gradualling learning more and more concepts.
-Design :- I love to design website and create a combination which is simple as well as attrative. I already redesign 3 website and trying to create a good portfolio in future.
+Web Development :- I really enjoy webDevlopment , and look forward in making great websites soon , I am right now seriously working on master this skill as i am loving it and soon want to make a website which is can be help for other.<br>
+Competitive Coding :- I like the logic making ability of competitive programming and I am gradualling learning more and more concepts.<br>
+Design :- I love to design website and create a combination which is simple as well as attrative. I already redesign 3 website and trying to create a good portfolio in future.<br>
 Thanks to Coding week, I got the opportunity to try my hands on so many things which is on pending list from so long
-and Right now i don't have much thing to show but within 2 months i will be in that position. I am working hard to upgrade myself.
+and Right now i don't have much thing to show but within 2 months i will be in that position. I am working hard to upgrade myself.<br>
 [My GitHub profile](https://github.com/shubhamm700) where you can check my future project....
